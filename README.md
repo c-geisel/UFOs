@@ -1,4 +1,4 @@
-# UFOs
+# UFO Sightings
 
 - [HTML file for UFO Webpage](https://github.com/c-geisel/UFOs/blob/main/index.html)
 - [JavaScript file to Create Data Table](https://github.com/c-geisel/UFOs/blob/main/static/js/app.js)
